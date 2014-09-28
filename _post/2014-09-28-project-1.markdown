@@ -1,6 +1,6 @@
 ---
-title: อาหารคลีน
-subtitle: อะไรคืออาหารคลีน
+title: clean food
+subtitle: what is clean food?
 layout: default
 modal-id:1
 img:
